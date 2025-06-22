@@ -50,6 +50,7 @@ MLflow enables:
 ```bash
 git clone https://github.com/yourusername/house_price_mlflow.git
 cd house_price_mlflow
+```
 
 ### 2. Create and Activate Virtual Environment (Windows PowerShell)
 Create venv
