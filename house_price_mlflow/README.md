@@ -50,8 +50,8 @@ MLflow enables:
 
 ### 1. Clone & Navigate
 ```bash
-git clone https://github.com/yourusername/house_price_mlflow.git
-cd house_price_mlflow
+git clone https://github.com/anirbanbose83/MLOps.git
+cd MLOps/house_price_mlflow
 ```
 
 ### 2. Create and Activate Virtual Environment (Windows PowerShell)
